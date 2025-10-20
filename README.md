@@ -1,2 +1,4 @@
 # Diseases_Predictor
-This is my first repos on git hub.
+This is my first repos on git hub. 
+<br>
+-- Author Faizan 
